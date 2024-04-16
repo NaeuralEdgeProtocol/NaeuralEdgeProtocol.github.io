@@ -1,0 +1,10 @@
+body {
+  background-color: #333;  /* Dark background */
+  color: #ccc;            /* Light text */
+  font-family: Arial, sans-serif; /* Optional: Font style */
+}
+
+/* Additional styles for headings, links, etc. */
+h1, h2, h3 {
+  color: #ff8c00;  /* Example: Orange headings */
+}
