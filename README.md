@@ -97,7 +97,7 @@ The Naeural Edge Protocol is a visionary long-term project, meticulously structu
 
 ## Commercial Roadmap
 
-  - [ ] Apr 2024: Onboarding of seed investor 
+  - [ ] Apr 2024: Initial onboarding of seed investor 
   - [ ] May 2024: Multisig wallet & initial DAO board established
   - [ ] May 2024: Naeural Protocol Foundation launched
   - [ ] Jun 2024: Liquidity pool on Uniswap (Arbitrum mainnet)
