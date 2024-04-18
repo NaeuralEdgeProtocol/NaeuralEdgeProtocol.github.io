@@ -75,36 +75,43 @@ This repository hosts the public repositories of Naeural, encompassing the compl
 
 # Tokenomics
 
+## Introduction into the Naeural Edge Protocol tokenomics
+
 The tokenomics of the Naeural Edge Protocol are are meticulously designed to enhance the ecosystem's durability and expansion. As a core **utility ERC-20 token**, the Naeural Edge Protocol token functions as the principal currency facilitating transactions throughout the network. This tokenomics framework aims to reward all ecosystem contributors — developers, node operators, and users alike — encouraging active participation and sustained growth.
 
 Since the Naeural Edge Protocol token operates as a utility token rather than a security token, its primary function lies in facilitating operational activities within the Naeural ecosystem, rather than speculative trading. It empowers users to contribute computing power, access diverse services, deploy applications, and eventually partake in governance processes. Consequently, there has not been, nor is there any intention for, a **Token Generation Event (TGE)** or **Initial Coin/Token Offering (ICO/IDO)** associated with the Naeural Edge Protocol token. All tokens, including those held in the Foundation's treasury, are distributed through **Naeural Edge Node (NEN) licenses** (Node Deeds) and the Naeural Edge Protocol decentralized application (dApp). These Node Deeds come in three forms: **Genesys Node Deed (GND)**, **Master Node Deed (MND)**, and **Node Deed (ND)**."
 
-## Genesys Node Deed (GND)
+### Genesys Node Deed (GND)
 A singular issuance exclusive to the **Naeural Edge Protocol Foundation**, the **Genesys Node Deed (GND)** activates the "edge node zero," the Foundation's virtual compute node. This activation is crucial for generating tokens allocated to the publicly disclosed Foundation token pools detailed further below. Essentially, the GND serves as the catalyst for initiating the entire Naeural Edge Protocol ecosystem.
 
-## Master Node Deed (MND)
+### Master Node Deed (MND)
 A specialized node license that will be allocated to both the development team and initial investors. This deed plays a pivotal role in supporting and sustaining the core functions of the ecosystem. The emission period for MND spans over a duration of more than 36 months.
 
-## Node Deed (ND)
+### Node Deed (ND)
 The license available for public purchase which enables the operation of individual edge nodes within the Naeural Edge Protocol ecosystem. These nodes are crucial for powering and maintaining the network's decentralized infrastructure. Unlike the emission strategy for MNDs, NDs are emitted at a faster rate, ensuring a prolonged vesting period.
 
 
-# The Naeural Edge Protocol Treasury
+## The Naeural Edge Protocol Treasury
 
 The Naeural Edge Protocol treasury encompasses multiple pools designed to delineate the scope of resource allocation.
 
-## Internal/Core Research & Development pool
+### Internal/Core Research & Development pool
 Dedicated to funding ongoing research and development efforts that are central to the advancement of the Naeural Edge Protocol. Investments from this pool ensure continuous innovation, improvement of existing technologies, and development of new functionalities within the protocol. It supports the technical team in enhancing the platform's capabilities and security features.
 
-## Marketing and community growth pool
+### Marketing and community growth pool
 Resources in this pool are allocated towards marketing initiatives and community engagement strategies. The focus is on building brand awareness, expanding user adoption, and fostering a strong, vibrant community around the Naeural Edge Protocol. Efforts include online campaigns, partnerships, community events, and educational programs to attract and retain users and developers.
 
-## Hackathons and project grants pool
+### Hackathons and project grants pool
 Specifically set aside to sponsor hackathons and provide grants for projects that contribute to the Naeural ecosystem. By funding these activities, Naeural encourages innovation and practical implementation of ideas that can enhance the ecosystem. This not only stimulates creativity within the community but also helps in identifying and nurturing potential projects that could be integrated into the Naeural Edge Protocol Marketplace.
 
-## Social responsibility pool
+### Social responsibility pool
 Dedicated to initiatives that align with the Naeural Edge Protocol’s commitment to ethical practices and positive social impact. This includes contributions to causes such as sustainability projects, educational programs, and other community-enhancing projects. Through this pool, Naeural demonstrates its commitment to using technology for societal benefit and to promoting responsible AI and blockchain practices.
 
+
+## Statistics & numbers
+
+  - **Total supply** of 1,000,000,000 tokens: the maximum number of tokens that will ever exist in the Naeural Edge Protocol ecosystem. Note that all the tokens will be mined and none will be minted at TGE or similar.
+  ...
 
 
 # Roadmap
@@ -120,8 +127,8 @@ The Naeural Edge Protocol is a forward-thinking, long-term initiative. The techn
   - [x] Q1 2022: Additional use cases added to the Naeural DNA
   - [x] Q2 2022: Naeural DNA fully operational & ready for web2 applications
   - [x] Q3 2022: Research projects and collaborations within web2 space
-  - [x] Q1 2023: Large Language Models support in the Naeural DNA Core with various backends
-  - [x] Q2 2023: Naeural DNA Core and Naeural Edge Node used for 3rd party AI projects 
+  - [x] Q1 2023: Large Language Models support in the Naeural DNA with various backends
+  - [x] Q2 2023: Naeural DNA and Naeural Edge Node used for 3rd party AI projects 
   - [x] Q4 2023: Naeural Edge Protocol taxonomy launched and functional including Supervisors nodes and Network monitoring
   - [x] Q1 2024: Protocol Epoch Management algorithms integrated into the Naeural Edge Protocol Core 
   - [ ] Apr 2024: Epoch Management Oracles functional both in edge nodes as well as in cloud
