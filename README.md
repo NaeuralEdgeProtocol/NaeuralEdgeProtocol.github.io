@@ -4,11 +4,11 @@ All Naeural modules and repositories are openly available under the **Apache 2.0
 
 This repository hosts the public repositories of Naeural, encompassing the complete stack of modules necessary for building and running a decentralized AI training and inference **Naeural Edge Node (NEN)**. Naeural is a pioneering protocol that harnesses decentralized computing and AI via edge-node software, facilitating on-edge inference and training. It integrates trustless microtransactions into its ecosystem, promoting a secure, efficient, and scalable network for AI development and deployment. This underscores the project's dedication to technological advancement while prioritizing financial growth and sustainability.
 
-# <div align="center">Introducing Naeural Edge Protocol</div>
+<div align="center"><h1>Introducing Naeural Edge Protocol</h1></div>
 
-## <div align="center">The first Operating System (OS) for Artificial Intelligence (AI) powered by AI and blockchain technologies</div>
+<div align="center"><h2>The first Operating System (OS) for Artificial Intelligence (AI) powered by AI and blockchain technologies</h2></div>
 
-### <div align="center">Written on Earth by Naeural.ai in April 2024</div>
+<div align="center"><h3>Written on Earth by Naeural.ai in April 2024</h3></div>
 
 
 # Contents
