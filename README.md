@@ -13,13 +13,13 @@ This repository hosts the public repositories of Naeural, encompassing the compl
 
 # Contents
 
-  - [Introduction](#intro)
-  - [The cutting edge of AI & Blockchain](#cutting-edge-of-ai--blockchain)
+  - [Introduction](#introduction)
+  - [The cutting edge of AI & Blockchain](#the-cutting-edge-of-ai--blockchain)
   - [Fast app development & go-to-market](#fast-app-development--go-to-market)
-  - [Our team technical creed](#our-team-technical-creed)
+  - [Our technical philosophy at Naeural](#our-technical-philosophy-at-naeural)
   - [Tokenomics](#tokenomics)
   - [The Naeural Edge Protocol Treasury](#the-naeural-edge-protocol-treasury)
-  - [Roadmap](#roadmaps)
+  - [Roadmap](#roadmap)
 
 
 # Introduction
