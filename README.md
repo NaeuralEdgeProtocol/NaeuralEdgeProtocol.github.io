@@ -88,6 +88,11 @@ The Naeural Edge Protocol is a visionary long-term project, meticulously structu
   - [ ] Jun 2024: Token redeem in dApp available for Proof-of-Ownership and Proof-of-Availability 
   - [ ] Jul 2024: Naeural Edge Protocol Proof-of-AI Oracles functional
   - [ ] Jul 2024: Token reedm in dApp available for Proof-of-AI
+  - [ ] Aug 2024: Naeural Edge Protocol Framework v1 for AI applications available
+  - [ ] Aug 2024: Naeural Edge Protocol dApp available for Proof-of-Work
+  - [ ] Q2 2025: Naeural Edge Protocol Framework v2 for AI applications available
+  - [ ] Q4 2025: Naeural Edge Protocol Framework v3 for AI applications available
+
 
 
 ## Commercial Roadmap
@@ -106,14 +111,13 @@ The Naeural Edge Protocol is a visionary long-term project, meticulously structu
   - [ ] Dec 2024: 2nd major hackathon
   - [ ] Dec 2024: 3rd party applications available on Naeural Edge Protocol Marketplace including hackathon winners
   - [ ] Q1 2025: At least 2 developer teams onboarded and deploying their applications on Naeural Edge Protocol
-  - [ ] Q1 2025: Launch of token on at least 2 additional exchanges
-  - [ ] Q2 2025: 
-  - [ ] Q3 2025: Internal team growth to 20 members and 20+ 3rd party Open Source contributors to Naeural Edge Protocol Core development
-  - [ ] Q4 2025: 
-  - [ ] Q1 2026:
-  - [ ] Q2 2026:
-  - [ ] Q3 2026:
-  - [ ] Q4 2026:
+  - [ ] Q1 2025: 3rd Naeural Edge Protocol Hackathon. Launch of token on at least 2 additional exchanges
+  - [ ] Q2 2025: Internal team growth to 20 members and 20+ 3rd party Open Source contributors to Naeural Edge Protocol Core development
+  - [ ] Q2 2025: 4rd Naeural Edge Protocol Hackathon.
+  - [ ] Q3 2025: Yearly Naeural Edge Protocol conference 1st edition.  
+  - [ ] Q3 2025: Launch of token on at least 2 additional exchanges
+  - [ ] Q4 2025: Launch of no-code suite of development tools for Naeural Edge Protocol. 
+  - [ ] Q4 2025: 5th Naeural Edge Protocol Hackathon.
 
 
 # Tokenomics
@@ -139,7 +143,7 @@ This pool is dedicated to funding ongoing research and development efforts that 
 Resources in this pool are allocated towards marketing initiatives and community engagement strategies. The focus is on building brand awareness, expanding user adoption, and fostering a strong, vibrant community around the Naeural Edge Protocol. Efforts include online campaigns, partnerships, community events, and educational programs to attract and retain users and developers.
 
 ### Hackathons and project grants
-This pool is specifically set aside to sponsor hackathons and provide grants for projects that contribute to the Naeural ecosystem. By funding these activities, the treasury encourages innovation and practical implementation of ideas that can enhance the ecosystem. This not only stimulates creativity within the community but also helps in identifying and nurturing potential projects that could be integrated into the Naeural platform.
+This pool is specifically set aside to sponsor hackathons and provide grants for projects that contribute to the Naeural ecosystem. By funding these activities, Naeural encourages innovation and practical implementation of ideas that can enhance the ecosystem. This not only stimulates creativity within the community but also helps in identifying and nurturing potential projects that could be integrated into the Naeural platform.
 
 ### Social responsibility
 The social responsibility pool is dedicated to initiatives that align with the Naeural Edge Protocol’s commitment to ethical practices and positive social impact. This includes contributions to causes such as sustainability projects, educational programs, and other community-enhancing projects. Through this pool, Naeural demonstrates its commitment to using technology for societal benefit and to promoting responsible AI and blockchain practices.
