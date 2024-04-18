@@ -1,9 +1,3 @@
-# Naeural Edge Protocol public repositories
-
-All Naeural modules and repositories are openly available under the **Apache 2.0 license**. We are dedicated to nurturing community-driven development, democratizing AI, and progressing through collaborative research and innovation.
-
-This repository hosts the public repositories of Naeural, encompassing the complete stack of modules necessary for building and running a decentralized AI training and inference **Naeural Edge Node (NEN)**. Naeural is a pioneering protocol that harnesses decentralized computing and AI via edge-node software, facilitating on-edge inference and training. It integrates trustless microtransactions into its ecosystem, promoting a secure, efficient, and scalable network for AI development and deployment. This underscores the project's dedication to technological advancement while prioritizing financial growth and sustainability.
-
 <div align="center"><h1>Introducing Naeural Edge Protocol</h1></div>
 
 <div align="center"><h2>The first Operating System (OS) for Artificial Intelligence (AI) powered by AI and blockchain technologies</h2></div>
@@ -17,6 +11,7 @@ This repository hosts the public repositories of Naeural, encompassing the compl
   - [The cutting edge of AI & Blockchain](#the-cutting-edge-of-ai--blockchain)
   - [Fast app development & go-to-market](#fast-app-development--go-to-market)
   - [Our technical philosophy at Naeural](#our-technical-philosophy-at-naeural)
+  - [Naeural Edge Protocol source code](#naeural-edge-protocol-source-code)
   - [Tokenomics](#tokenomics)
   - [The Naeural Edge Protocol Treasury](#the-naeural-edge-protocol-treasury)
   - [Roadmap](#roadmap)
@@ -71,6 +66,11 @@ Regardless of your project's scope or your team's expertise, Naeural is designed
 - Simplicity guides our documentation, and efficiency is our SDKs’ hallmark;
 - Our team contributes not only with skills but also with a vision that places the customer at the center of all our efforts.
 
+# Naeural Edge Protocol source code
+
+All Naeural modules and repositories are openly available under the **Apache 2.0 license**. We are dedicated to nurturing community-driven development, democratizing AI, and progressing through collaborative research and innovation.
+
+This repository hosts the public repositories of Naeural, encompassing the complete stack of modules necessary for building and running a decentralized AI training and inference **Naeural Edge Node (NEN)**. Naeural is a pioneering protocol that harnesses decentralized computing and AI via edge-node software, facilitating on-edge inference and training. It integrates trustless microtransactions into its ecosystem, promoting a secure, efficient, and scalable network for AI development and deployment. This underscores the project's dedication to technological advancement while prioritizing financial growth and sustainability.
 
 
 # Tokenomics
