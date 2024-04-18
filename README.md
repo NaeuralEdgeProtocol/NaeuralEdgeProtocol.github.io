@@ -1,3 +1,6 @@
+# Contents
+
+
 # Intro
 
 What is **Naeural**? Naeural or in its complete form "Naeural Edge Protocol" is the Operating System for Artificial Intelligence powered both by AI and Blockchain technologies. Our vision at Naeural is to truly democratize Artificial Intelligence by creating a network of shared resources for easy end-to-end development and deployment of AI applications. **Naeural** makes AI accessible and profitable for anyone, through a near-infinite range of applications which are hosted within an ecosystem that’s intuitive and even generates revenue for those actively involved. Simply put: “*AI power for the people*”. Imagine a world in which computers and mobile devices throughout the world provide AI solutions for a range of tasks and projects which matter to individuals, and large and small organizations alike.
@@ -20,7 +23,7 @@ The Naeural vision coalesces with current digital transformation trends, aspirin
 
 Extending this innovation, Naeural introduces multi-domain Large Language Model (LLM) based applications on the Naeural DNA. This enables the creation of versatile applications featuring time series predictive analytics, zero-shot-training for anomaly detection, and no-training-required video scene analysis, among others based on **state-of-the-art foundational models**. Designed for ease of development, these applications require no deployment or maintenance, operating within a decentralized, token-based budgeting and scalability framework. This amalgamation of advanced AI functionalities and decentralized processes positions Naeural as a transformative force in the AI domain, streamlining development and deployment for a future where AI is accessible and integral to every aspect of digital innovation.
 
-## **Fast app development & go-to-market**
+## Fast app development & go-to-market
 
 There are five features of Naeural revolutionary architecture aspects that enable fast development and deployment of AI in everyday life.
 
@@ -32,7 +35,7 @@ There are five features of Naeural revolutionary architecture aspects that enabl
 
 Regardless of what you're aiming to build or how skilled your programming team is, Naeural is designed to accelerate your AI project's launch—and not just AI projects. For instance, if you require a horizontally scalable web-API with multiple endpoints, without needing MQTT, AI, or blockchain integration, you can easily set up our endpoints using low-code and deploy a fleet of heterogeneous distributed microservices via our `ngrok` integration.
 
-# Our team technical **creed**
+## Our team technical creed
 
 1. Our product embodies value; features are simply the lens through which **customers** experience our innovation.
 2. The apps and their user interfaces are inviting portals into the much more expansive capabilities of Naeural.
@@ -43,7 +46,8 @@ Regardless of what you're aiming to build or how skilled your programming team i
 7. Simplicity is our documentation creed, and efficiency is our SDK's hallmark.
 8. Our team's craftsmanship is devoted to the core, coding not just with skill but with a vision that places the **customer** at the heart of our work.
 
-# Naeural Edge Protocol public repositories
+
+## Naeural Edge Protocol public repositories
 
 Every **Naeural** module and repository is openly available under the Apache 2.0 license. Our commitment lies in fostering community-driven development, democratizing AI, and advancing through collaborative research and innovation.
 
@@ -51,7 +55,12 @@ This repository contains the public repositories of Naeural including the whole 
 Naeural is an innovative protocol leveraging decentralized computing and AI through edge-node software, enabling on-edge inference and training. It incorporates trustless microtransactions within its ecosystem, fostering a secure, efficient, and scalable network for AI development and deployment, emphasizing the project's commitment to advancing technology while ensuring financial growth and sustainability.
 
 
-# Technical Roadmap
+# Roadmaps
+
+The Naeural Edge Protocol is a visionary long-term project, meticulously structured with both technical and commercial roadmaps. The technical roadmap is dedicated to developing the Core and Edge Node software of the Naeural Edge Protocol, divided into distinct phases with clear goals and milestones. Conversely, the commercial roadmap emphasizes the ecosystem's growth and expansion. These roadmaps are flexible and may adapt to market shifts, technological progress, and other variables. The Naeural Edge Protocol team is steadfast in its commitment to fulfill its objectives and foster a robust, sustainable ecosystem for AI innovation and deployment.
+
+
+## Technical Roadmap
 
   - [x] Q2 2021: Plugin-based execution pipelines and first version of the edge node Core modules
   - [x] Q3 2021: Private Blockchain libraries and SDK ready for testing
@@ -73,7 +82,7 @@ Naeural is an innovative protocol leveraging decentralized computing and AI thro
   - [ ] Jul 2024: Token reedm in dApp available for Proof-of-AI
 
 
-# Commercial Roadmap
+## Commercial Roadmap
 
   - [ ] Apr 2024: Onboarding of seed investor 
   - [ ] May 2024: Multisig wallet & initial DAO board established
@@ -98,3 +107,31 @@ Naeural is an innovative protocol leveraging decentralized computing and AI thro
   - [ ] Q3 2026:
   - [ ] Q4 2026:
 
+
+# Tokenomics
+
+The tokenomics of the Naeural Edge Protocol are crafted to bolster the ecosystem's long-term viability and expansion. As a core utility ERC-20 token, the Naeural Edge Protocol token functions as the principal currency facilitating transactions throughout the network. This tokenomics framework aims to reward all ecosystem contributors—developers, node operators, and users alike—encouraging active participation and what is most important: **sustained growth**.
+
+Given that the Naeural Edge Protocol token is a utility token rather than a security token, its purpose is not for speculative trading but for operational use within the Naeural ecosystem. It enables users to contribute computing power, access various services, deploy applications, and eventually engage in governance activities. Consequently, there has not been, is not planned, and will not be any Token Generation Event (TGE) or Initial Coin/Token Offering (ICO/IDO) associated with the Naeural Edge Protocol token. All tokens, including those in the Foundation's treasury, are issued through the edge licenses (Node Deeds) and the Naeural Edge Protocol decentralized application (dApp). There are three types of Node Deeds: Genesys Node Deed (GND), Master Node Deeds (MND) and Node Deeds (ND) as follows:
+
+- The Genesys Node Deed (GND) represents a unique, one-time issuance for the Naeural Edge Protocol Foundation. It will activate "edge node zero" - the Foundation virtual compute node - which is essential for generating tokens for the publicly disclosed Foundation token pools described below. Essentially, the GND serves to kickstart the entire Naeural Edge Protocol ecosystem.
+
+- The Master Node Deed (MND) is a specialized node license that will be allocated to both the development team and initial investors. This deed plays a pivotal role in supporting and sustaining the core functions of the ecosystem.
+
+- The Node Deed (ND) is the license available for public purchase, which enables the operation of individual edge nodes within the Naeural Edge Protocol ecosystem. These nodes are crucial for powering and maintaining the network's decentralized infrastructure.
+
+
+## The Naeural Edge Protocol Treasury
+
+### Internal/Core R&D pool
+
+This pool is dedicated to funding ongoing research and development efforts that are central to the advancement of the Naeural Edge Protocol. Investments from this pool ensure continuous innovation, improvement of existing technologies, and development of new functionalities within the protocol. It supports the technical team in enhancing the platform's capabilities and security features.
+
+### Marketing and community growth
+Resources in this pool are allocated towards marketing initiatives and community engagement strategies. The focus is on building brand awareness, expanding user adoption, and fostering a strong, vibrant community around the Naeural Edge Protocol. Efforts include online campaigns, partnerships, community events, and educational programs to attract and retain users and developers.
+
+### Hackathons and project grants
+This pool is specifically set aside to sponsor hackathons and provide grants for projects that contribute to the Naeural ecosystem. By funding these activities, the treasury encourages innovation and practical implementation of ideas that can enhance the ecosystem. This not only stimulates creativity within the community but also helps in identifying and nurturing potential projects that could be integrated into the Naeural platform.
+
+### Social responsibility
+The social responsibility pool is dedicated to initiatives that align with the Naeural Edge Protocol’s commitment to ethical practices and positive social impact. This includes contributions to causes such as sustainability projects, educational programs, and other community-enhancing projects. Through this pool, Naeural demonstrates its commitment to using technology for societal benefit and to promoting responsible AI and blockchain practices.
