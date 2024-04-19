@@ -14,6 +14,8 @@
   - [Naeural Edge Protocol source code](#naeural-edge-protocol-source-code)
   - [Tokenomics](#tokenomics)
   - [The Naeural Edge Protocol Treasury](#the-naeural-edge-protocol-treasury)
+  - [Naeural Edge Protocol tokenomics allocation](#naeural-edge-protocol-tokenomics-allocation)
+  - [Node Deeds pricing schema](#node-deeds-pricing-schema)
   - [Roadmap](#roadmap)
 
 
