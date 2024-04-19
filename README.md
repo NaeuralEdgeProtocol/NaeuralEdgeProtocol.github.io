@@ -130,6 +130,11 @@ Dedicated to initiatives that align with the Naeural Edge Protocol’s commitmen
 
 ## Node Deeds pricing schema
 
+The Naeural Edge Protocol employs a unique anti-inflationary pricing strategy for its Node Deeds, which are essential NFT-licenses for each Edge Node within the ecosystem. This method systematically increases the cost of Node Deeds as more are purchased, ensuring that only genuine economic factors drive their acquisition. This tiered pricing model is designed to mitigate speculative buying and promote a stable growth environment for the network. For instance, the "Universal (no zone boundary)" Node Deed starts at a price of $500 during the first stage with 100 units available. As demand increases and these initial units are sold, the price escalates to $1,000 in the second stage for the next 250 units, and further to $2,500 for 300 units in the third stage. This pattern is mirrored in specific zones labeled A, B, and C, with starting prices at $2,500 and sharply rising through subsequent stages—reaching up to $50,000 in stage V. Each zone follows a similar escalation, underscoring the protocol's commitment to controlling inflation and ensuring that Node Deeds are acquired for their intended utility rather than for speculative purposes.
+
+The approach not only aligns with Naeural’s ethos of democratizing AI via blockchain but also ensures that the growth of the network is economically sustainable. By increasing prices as more deeds are purchased, Naeural effectively controls the rate of expansion, aligns Node Deed ownership with actual usage and contribution to the ecosystem, and secures the network's long-term viability. This strategy exemplifies a thoughtful integration of economic principles with technological innovation, aiming to foster a robust and equitable ecosystem.
+
+
 | Node Deed                                                        |    Stage    |      USD      |    Source    |    Units    |       Value       |
 | :--------------------------------------------------------------- | ----------: | ------------: | -----------: | ----------: | ----------------: | 
 | Universal (no zone boundary)                                     |           I |           500 | Initial mint |         100 |            50,000 |
