@@ -137,26 +137,26 @@ The Naeural Edge Protocol employs a unique anti-inflationary pricing strategy fo
 The approach not only aligns with Naeural’s ethos of democratizing AI via blockchain but also ensures that the growth of the network is economically sustainable. By increasing prices as more deeds are purchased, Naeural effectively controls the rate of expansion, aligns Node Deed ownership with actual usage and contribution to the ecosystem, and secures the network's long-term viability. This strategy exemplifies a thoughtful integration of economic principles with technological innovation, aiming to foster a robust and equitable ecosystem.
 
 
-| Node Deed                                                        |    Stage    |      USD      |    Source    |    Units    |       Value       |
-| :--------------------------------------------------------------- | ----------: | ------------: | -----------: | ----------: | ----------------: | 
-| Universal (no zone boundary)                                     |           I |           500 | Initial mint |         100 |            50,000 |
-| Universal (no zone boundary)                                     |          II |         1,000 | Initial mint |         250 |           250,000 |
-| Universal (no zone boundary)                                     |         III |         2,500 | Initial mint |         300 |           750,000 |
-| Zone A                                                           |           I |         2,500 |    Zone mint |         250 |           625,000 |
-| Zone A                                                           |          II |         5,000 |    Zone mint |         150 |           750,000 | 
-| Zone A                                                           |         III |        10,000 |    Zone mint |         250 |         2,500,000 | 
-| Zone A                                                           |          IV |        25,000 |    Zone mint |         300 |         7,500,000 | 
-| Zone A                                                           |           V |        50,000 |    Zone mint |         500 |        25,000,000 | 
-| Zone B                                                           |           I |         2,500 |    Zone mint |         250 |           625,000 |   
-| Zone B                                                           |          II |         5,000 |    Zone mint |         150 |           750,000 | 
-| Zone B                                                           |         III |        10,000 |    Zone mint |         250 |         2,500,000 | 
-| Zone B                                                           |          IV |        25,000 |    Zone mint |         300 |         7,500,000 | 
-| Zone B                                                           |           V |        50,000 |    Zone mint |         500 |        25,000,000 | 
-| Zone C                                                           |           I |         2,500 |    Zone mint |         250 |           625,000 | 
-| Zone C                                                           |          II |         5,000 |    Zone mint |         150 |           750,000 | 
-| Zone C                                                           |         III |        10,000 |    Zone mint |         250 |         2,500,000 | 
-| Zone C                                                           |          IV |        25,000 |    Zone mint |         300 |         7,500,000 | 
-| Zone C                                                           |           V |        50,000 |    Zone mint |         500 |        25,000,000 | 
+| Node Deed                                                        |    Stage    |      USD      |    Source    |    Units    |
+| :--------------------------------------------------------------- | ----------: | ------------: | -----------: | ----------: |
+| Universal (no zone boundary)                                     |           I |           500 | Initial mint |         100 |
+| Universal (no zone boundary)                                     |          II |         1,000 | Initial mint |         250 |
+| Universal (no zone boundary)                                     |         III |         2,500 | Initial mint |         300 |
+| Zone A                                                           |           I |         2,500 |    Zone mint |         250 |
+| Zone A                                                           |          II |         5,000 |    Zone mint |         150 |
+| Zone A                                                           |         III |        10,000 |    Zone mint |         250 |
+| Zone A                                                           |          IV |        25,000 |    Zone mint |         300 |
+| Zone A                                                           |           V |        50,000 |    Zone mint |         500 |
+| Zone B                                                           |           I |         2,500 |    Zone mint |         250 |
+| Zone B                                                           |          II |         5,000 |    Zone mint |         150 |
+| Zone B                                                           |         III |        10,000 |    Zone mint |         250 |
+| Zone B                                                           |          IV |        25,000 |    Zone mint |         300 |
+| Zone B                                                           |           V |        50,000 |    Zone mint |         500 |
+| Zone C                                                           |           I |         2,500 |    Zone mint |         250 |
+| Zone C                                                           |          II |         5,000 |    Zone mint |         150 |
+| Zone C                                                           |         III |        10,000 |    Zone mint |         250 |
+| Zone C                                                           |          IV |        25,000 |    Zone mint |         300 |
+| Zone C                                                           |           V |        50,000 |    Zone mint |         500 |
 
 
 # Roadmap
