@@ -95,6 +95,13 @@ The license available for public purchase which enables the operation of individ
 
 ## Purely utility token
 
+Our utility token is intricately designed to serve as the fuel for the Naeural Edge Protocol ecosystem, enabling a smooth and efficient operation across various functionalities. Here is an enhanced clarification of the utility token’s purpose and limitations:
+
+**Defined Utility:** The token acts as the operational gas required for processing jobs, allocating compute time, provisioning GPU resources, and acquiring licenses. It is essential for all transactional processes within the protocol, ensuring that each action is executed seamlessly.
+
+**No Financial Entitlements:** Holders of the token will not receive any form of financial returns such as dividends, profit shares, interest, or other benefits typically associated with investments in the DeFi space. The token is strictly a utility mechanism within the Naeural Edge Protocol.
+
+**Exclusively Non-Investment:** The primary function of our token is to facilitate transactions within the Naeural Edge Protocol’s ecosystem. It is specifically designed to support operational efficiency and is not intended for speculative trading or as an investment vehicle. 
 
 
 
