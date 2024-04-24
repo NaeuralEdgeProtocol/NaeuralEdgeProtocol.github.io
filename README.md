@@ -13,6 +13,7 @@
   - [Our technical philosophy at Naeural](#our-technical-philosophy-at-naeural)
   - [Naeural Edge Protocol source code](#naeural-edge-protocol-source-code)
   - [Tokenomics](#tokenomics)
+  - [Purely utility token](#purely-utility-token)
   - [The Naeural Edge Protocol Treasury](#the-naeural-edge-protocol-treasury)
   - [Naeural Edge Protocol tokenomics allocation](#naeural-edge-protocol-tokenomics-allocation)
   - [Node Deeds pricing schema](#node-deeds-pricing-schema)
@@ -21,9 +22,9 @@
 
 # Introduction
 
-Naeural Edge Protocol (Naeural for short) is the Operating System for Artificial Intelligence powered by AI and Blockchain technologies. Our mission at Naeural is to democratize AI by establishing a network of shared resources, simplifying the development and deployment of AI applications from inception to execution. Naeural empowers anyone to access and capitalize on AI's potential through an extensive array of applications hosted within our user-friendly ecosystem, driving revenue for active participants. With our “AI power to the people"  motto, we envision a future in which computers and mobile devices worldwide provide AI solutions for a range of tasks and projects which matter to individuals, large and small organizations alike.
+The Naeural Edge Protocol, or simply Naeural, is an AI-driven Operating System that integrates Blockchain technology. Our core mission is to democratize artificial intelligence by establishing a comprehensive network that facilitates the easy development and deployment of AI applications—from their initial concept to full execution. Naeural enables universal access to AI, allowing users to leverage its vast potential through a diverse suite of applications within our intuitive ecosystem, thus generating revenue for its active contributors. Our motto, "AI power to the people," reflects our vision of a future where AI solutions are ubiquitously available across computers and mobile devices globally, catering to both individual and organizational needs.
 
-Naeural aims to address key technical and economic challenges by offering readily accessible AI solutions that are cost-effective through trustless micro-transactions. This approach eliminates barriers to entry, as it only requires consumer or retail computer devices equipped with the Naeural software. Our solution caters to the requirements of developers, compute providers, and individuals without extensive AI expertise, ensuring widespread accessibility and usability.
+Naeural specifically targets key technical and economic obstacles by providing cost-effective AI application development, deployment and go-to-market solutions and support accessible via Blockchain technology including trustless micro-transactions. This model effectively reduces entry barriers, requiring only consumer-grade computing devices equipped with our platform. Our platform is designed to meet the needs of developers, computing providers, and non-experts in AI, ensuring broad usability and accessibility.
 
 Our project ecosystem will establish a utility blockchain network wherein AI processing nodes will:
 
@@ -102,7 +103,6 @@ Our utility token is intricately designed to serve as the fuel for the Naeural E
 **No Financial Entitlements:** Holders of the token will not receive any form of financial returns such as dividends, profit shares, interest, or other benefits typically associated with investments in the DeFi space. The token is strictly a utility mechanism within the Naeural Edge Protocol.
 
 **Exclusively Non-Investment:** The primary function of our token is to facilitate transactions within the Naeural Edge Protocol’s ecosystem. It is specifically designed to support operational efficiency and is not intended for speculative trading or as an investment vehicle. 
-
 
 
 ## The Naeural Edge Protocol Treasury
