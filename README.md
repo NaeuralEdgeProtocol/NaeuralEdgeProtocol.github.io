@@ -93,6 +93,11 @@ A specialized node license that will be allocated to both the development team a
 The license available for public purchase which enables the operation of individual edge nodes within the Naeural Edge Protocol ecosystem. These nodes are crucial for powering and maintaining the network's decentralized infrastructure. Unlike the emission strategy for MNDs, NDs are emitted at a faster rate, ensuring a prolonged vesting period.
 
 
+## Purely utility token
+
+
+
+
 ## The Naeural Edge Protocol Treasury
 
 The Naeural Edge Protocol treasury encompasses multiple pools designed to delineate the scope of resource allocation.
@@ -111,8 +116,12 @@ Dedicated to initiatives that align with the Naeural Edge Protocol’s commitmen
 
 
 ## Naeural Edge Protocol tokenomics allocation
+The Naeural Edge Protocol features a robust tokenomics structure with a fixed total supply of **1,618,033,988** tokens, a figure inspired by the Golden Ratio — a mathematical constant observed in natural and human-made structures, from the spirals of galaxies to the design of artworks and molecular structures. This number not only highlights the protocol’s dedication to balance and sustainability but also symbolizes its commitment to organic growth and technological evolution. Finally, for us this particular number signifies the human-centric approach for advancement of AI and blockchain technologies.
 
- The Naeural Edge Protocol tokenomics boasts a fixed total supply, with a total of **1,618,033,988 tokens** to ever exist. What sets our protocol apart is our commitment to a fully mined token ecosystem. With Naeural Edge Protocol, there will be no new tokens generated at TGE or ICO/IDO events, ensuring a finite and transparent token distribution from the outset.
+Unique to our approach is the absence of token generation events such as TGEs or ICO/IDO events. Instead, the entire token supply will be fully mined, released through the contribution of computational power by participants who operate edge nodes. This method ensures a finite and transparent token distribution from the start, aligning with our goal of a fully decentralized and participant-driven ecosystem.
+
+Token distribution is intricately designed around the issuance of licenses, referred to as Node Deeds, available in three distinct forms. This framework supports our protocol’s philosophy and operational dynamics, fostering an equitable and scalable network.
+
 
 | Category                                                         | Percentage | Price per token | Token source | No. of NFT | No. of ND | No. of MND |
 | :--------------------------------------------------------------- | ---------: | --------------: | -----------: | ---------: | --------: | ---------: |
