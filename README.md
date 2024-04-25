@@ -143,7 +143,7 @@ Token distribution is intricately designed around the issuance of licenses, refe
 | Marketing and community growth pool                              |         2% |                 |          GND |            |           |            | 
 | Hackathons and project grants pool                               |        10% |                 |          GND |            |           |            |
 | Social responsibility pool                                       |      6.75% |                 |          GND |            |           |            |
-| Proof of AI (partial), Proof of Ownership, Proof of Availability |      38.3% |                 |           ND |      5,000 |     5,000 |            | 
+| Proof of AI/Availability                                         |      38.3% |                 |           ND |      5,000 |     5,000 |            | 
 
 
 ## Node Deeds pricing schema
@@ -175,6 +175,8 @@ The approach not only aligns with Naeural’s ethos of democratizing AI via bloc
 | Zone C                                                           |           V |        50,000 |    Zone mint |         500 |
 
 
+> mportant Notice: Please be aware that the boundaries and definitions of Zones A-C are currently under review and have yet to be finalized. These specifics are subject to discussion and will be determined through DAO voting to ensure community consensus. Additionally, we are considering the option to continue issuing Universal (no zone boundary) Node Deeds. Should this path be chosen, pricing adjustments will be implemented as already presented above to safeguard against inflationary pressures on processing power, ensuring the sustainability of our ecosystem.
+
 # Roadmap
 
 The Naeural Edge Protocol is a forward-thinking, long-term initiative. The technical roadmap focuses on developing the **Neural DNA** and **Naeural Edge Node** software of the protocol, structured into distinct phases with defined goals and milestones. The commercial roadmap highlights the ecosystem's growth and expansion. Both roadmaps remain adaptable to market shifts, technological advancements, and other variables. The Naeural Edge Protocol team remains steadfast in its commitment to achieving objectives and cultivating a robust, sustainable ecosystem for AI innovation and deployment.
@@ -197,11 +199,10 @@ The Naeural Edge Protocol is a forward-thinking, long-term initiative. The techn
   - [ ] May 2024: Naeural Edge Protocol token live on mainnet
   - [ ] May 2024: Naeural Edge Protocol dApp launched on mainnet
   - [ ] Jun 2024: Naeural Edge Protocol MND (Master Node Deeds) partially distributed to team and seed investors
-  - [ ] Jun 2024: Token redeem in dApp available for Proof-of-Ownership and Proof-of-Availability 
+  - [ ] Jun 2024: Token redeem in dApp available for Proof-of-Availability 
   - [ ] Jul 2024: Naeural Edge Protocol Proof-of-AI Oracles functional
   - [ ] Jul 2024: Token redeem available in dApp for Proof-of-AI
   - [ ] Aug 2024: Naeural Edge Protocol Framework v1 available for AI applications 
-  - [ ] Aug 2024: Naeural Edge Protocol dApp available for Proof-of-Work
   - [ ] Q2 2025: Naeural Edge Protocol Framework v2 available for AI applications
   - [ ] Q4 2025: Naeural Edge Protocol Framework v3 available for AI applications 
 
