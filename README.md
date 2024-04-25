@@ -175,7 +175,7 @@ The approach not only aligns with Naeural’s ethos of democratizing AI via bloc
 | Zone C                                                           |           V |        50,000 |    Zone mint |         500 |
 
 
-> mportant Notice: Please be aware that the boundaries and definitions of Zones A-C are currently under review and have yet to be finalized. These specifics are subject to discussion and will be determined through DAO voting to ensure community consensus. Additionally, we are considering the option to continue issuing Universal (no zone boundary) Node Deeds. Should this path be chosen, pricing adjustments will be implemented as already presented above to safeguard against inflationary pressures on processing power, ensuring the sustainability of our ecosystem.
+> Important Notice: Please be aware that the boundaries and definitions of Zones A-C are currently under review and have yet to be finalized. These specifics are subject to discussion and will be determined through DAO voting to ensure community consensus. Additionally, we are considering the option to continue issuing Universal (no zone boundary) Node Deeds. Should this path be chosen, pricing adjustments will be implemented as already presented above to safeguard against inflationary pressures on processing power, ensuring the sustainability of our ecosystem.
 
 # Roadmap
 
