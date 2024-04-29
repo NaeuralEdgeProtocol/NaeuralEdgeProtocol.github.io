@@ -84,6 +84,9 @@ The tokenomics of the Naeural Edge Protocol are are meticulously designed to enh
 
 Since the Naeural Edge Protocol token operates as a utility token rather than a security token, its primary function lies in facilitating operational activities within the Naeural ecosystem, rather than speculative trading. It empowers users to contribute computing power, access diverse services, deploy applications, and eventually partake in governance processes. Consequently, there has not been, nor is there any intention for, a **Token Generation Event (TGE)** or **Initial Coin/Token Offering (ICO/IDO)** associated with the Naeural Edge Protocol token. All tokens, including those held in the Foundation's treasury, are distributed through **Naeural Edge Node (NEN) licenses** (Node Deeds) and the Naeural Edge Protocol decentralized application (dApp). These Node Deeds come in three forms: **Genesis Node Deed (GND)**, **Master Node Deed (MND)**, and **Node Deed (ND)**."
 
+> [!IMPORTANT]
+> TL;DR: The token rewarding system is a genuine Artificial Intelligence mining mechanism, where you are rewared for your node - be it a personal PC, cloud VM, or data center hardware - contribution to the AI training, AI inference, endpoint provisioning, busines rules execution and finally protocol security. It is your responsability, as manual labor contribution, to supply power, provision the hardware, to install the software, maintain de computer(s) and connect the node(s) to the Internet and thus to the protocol.
+
 ### Genesis Node Deed (GND)
 A singular issuance exclusive to the **Naeural Edge Protocol Foundation**, the **Genesis Node Deed (GND)** activates the "edge node zero," the Foundation's virtual compute node. This activation is crucial for generating tokens allocated to the publicly disclosed Foundation token pools detailed further below. Essentially, the GND serves as the catalyst for initiating the entire Naeural Edge Protocol ecosystem.
 
