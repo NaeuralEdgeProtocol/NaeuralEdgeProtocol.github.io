@@ -10,6 +10,7 @@
   - [Introduction](#introduction)
   - [The cutting edge of AI & Blockchain](#the-cutting-edge-of-ai--blockchain)
   - [Fast app development & go-to-market](#fast-app-development--go-to-market)
+  - [Build and deploy a Web 2.0 application on Naeural Edge Protocol](#build-and-deploy-a-web-20-application-on-naeural-edge-protocol)
   - [Our technical philosophy at Naeural](#our-technical-philosophy-at-naeural)
   - [Naeural Edge Protocol source code](#naeural-edge-protocol-source-code)
   - [Tokenomics](#tokenomics)
