@@ -60,23 +60,23 @@ Naeural's revolutionary architecture is characterized by five key features that 
 Regardless of your project's scope or your team's expertise, Naeural is designed to accelerate your project's launch, catering not only to AI projects but also to a diverse range of needs. For instance, if you require a horizontally scalable web-API with multiple endpoints, devoid of MQTT, AI, or blockchain integration, you can effortlessly set up endpoints using low-code and deploy a fleet of heterogeneous distributed microservices via our `ngrok` integration.
 
 
-# Build and deploy a Web 2.0 application on Naeural Edge Protocol
+## Build and deploy a Web 2.0 application on Naeural Edge Protocol
 
-## Use case 
+### Use case 
 
 Consider a team developing a "continuous education with a twist" application for mobile devices. This application enables users to learn new skills through a gamified experience, covering a broad spectrum of content from elementary school math to advanced topics like programming, quantum physics, and information theory for postgraduate students. The application operates on a freemium model, offering basic content for free while providing access to premium content through a monthly subscription.
 
-## Web 2.0 challenges
+### Web 2.0 challenges
 
 The team faces numerous challenges, including application development, cloud deployment, infrastructure maintenance, data security, application scaling, monitoring, updates, customer support, and payment handling. Additionally, specific tasks such as content creation by experts and AI generative models, global content delivery via content delivery networks (CDNs), and dynamic scaling based on app success are complex and resource-intensive. These tasks require a diverse skill set and substantial resources, encompassing AI experts, backend and frontend developers, DevOps and cloud engineers, security and data engineers, data scientists, customer support staff, and teams for marketing, sales, finance, and legal matters.
 
-## Naeural Edge Protocol is the solution
+### Naeural Edge Protocol is the solution
 
 The Naeural Edge Protocol offers a suite of tools and services that mitigate many of the above-mentioned challenges, allowing the team to focus on the application's core business experience. While not a one-size-fits-all solution, it effectively addresses key issues such as the cost and availability of AI expertise, cloud resources, backend development, scaling, balancing, monitoring, security, and payment processing.
 
 With the Naeural Edge Protocol, the team can be dedicated to developing the web client to deliver an exceptional user experience, **leveraging existing AI models and business templates for backend logic running on Naeural Edge Nodes (NENs)**. The protocol manages scaling, balancing, monitoring, and security, significantly reducing cloud infrastructure costs and enabling the team to prioritize the application's go-to-market strategy.
 
-## Additional challenges for building Web 2.0 applications
+### Additional challenges for building Web 2.0 applications
 
 Besides the challenges mentioned for the presented use case, we have identified several others that we list below:
 - Integration with existing systems and platforms
@@ -85,7 +85,7 @@ Besides the challenges mentioned for the presented use case, we have identified 
 - Multilingual support and localization
 - Latency issues for users in remote regions
 
-## How we tackle them with Naeural
+### How we tackle them with Naeural
 
 The Neural Edge Protocol presents a robust and scalable platform that simplifies application deployment and management through:
 
@@ -96,16 +96,16 @@ The Neural Edge Protocol presents a robust and scalable platform that simplifies
 5. **Cost Efficiency:** Lowering cloud infrastructure costs by optimizing resource usage and employing decentralized computing.
 6. **Simplified Payment Processing:** Implementing a web3-based payment solution with trustless wallet integration while using an external KYC provider.
 
-## Extending to a Web3 Business Model
+### Extending to a Web3 Business Model
 
-The Neural Edge Protocol seamlessly evolves the initial web2 business model into a web3 framework. Within this framework, nodes function as local app hubs, facilitating the processing of crowdsourced and token-incentivized generative content curation. This expansion encompasses:
+The Neural Edge Protocol seamlessly evolves the initial web2 business model into a web3 framework. Within this framework, nodes function as edge app hubs, facilitating both edge-backend processing as well as allowing crowdsourced and token-incentivized content curation. This expansion encompasses:
 
-1. **Decentralized Content Curation:** Users actively contribute to content creation and curation, earning tokens as incentives, nurturing a community-driven content ecosystem.
+1. **Decentralized Content Curation:** Users can actively contribute to content creation and curation, earning tokens as incentives, nurturing a community-driven content ecosystem.
 2. **Crowdsourcing:** Harnessing the collective intelligence and creativity of the user base to enrich and diversify content offerings.
 3. **Token Incentives:** Implementing a token-based reward system to encourage user participation in content creation and curation, ensuring ongoing engagement and high-quality contributions.
-4. **Local Processing:** Utilizing local nodes to process content, thereby reducing latency and enhancing the user experience, particularly in regions with limited connectivity.
+4. **Dual Component Local Processing**: Each locally installed edge node consists of two components: the UI/client and the node itself. The edge node desktop client app facilitates content creation, serving as a gateway for users to directly participate as producers on the network. This functionality does not compromise the edge node's inherent capabilities of balancing processing and content delivery.
 
-By integrating these web3 features, the team can refine their business model, establishing a more dynamic, community-driven platform that capitalizes on the benefits of decentralization and tokenization. This not only enhances the user experience but also ensures sustainable and scalable growth.
+By integrating these web3 features, the partner team can refine their business model, establishing a more dynamic, community-driven platform that capitalizes on the benefits of decentralization and tokenization. This not only enhances the user experience but also ensures sustainable and scalable growth.
 
 # Our technical philosophy at Naeural
 
