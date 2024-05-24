@@ -13,7 +13,7 @@
   - [Our technical philosophy at Naeural](#our-technical-philosophy-at-naeural)
   - [Naeural Edge Protocol source code](#naeural-edge-protocol-source-code)
   - [Tokenomics](#tokenomics)
-  - [Purely utility token](#purely-utility-token)
+  - [Pure utility token](#pure-utility-token)
   - [The Naeural Edge Protocol Treasury](#the-naeural-edge-protocol-treasury)
   - [Naeural Edge Protocol tokenomics allocation](#naeural-edge-protocol-tokenomics-allocation)
   - [Node Deeds pricing schema](#node-deeds-pricing-schema)
@@ -58,6 +58,54 @@ Naeural's revolutionary architecture is characterized by five key features that 
 
 Regardless of your project's scope or your team's expertise, Naeural is designed to accelerate your project's launch, catering not only to AI projects but also to a diverse range of needs. For instance, if you require a horizontally scalable web-API with multiple endpoints, devoid of MQTT, AI, or blockchain integration, you can effortlessly set up endpoints using low-code and deploy a fleet of heterogeneous distributed microservices via our `ngrok` integration.
 
+
+# Build and deploy a Web 2.0 application on Naeural Edge Protocol
+
+## Use case 
+
+Consider a team developing a "continuous education with a twist" application for mobile devices. This application enables users to learn new skills through a gamified experience, covering a broad spectrum of content from elementary school math to advanced topics like programming, quantum physics, and information theory for postgraduate students. The application operates on a freemium model, offering basic content for free while providing access to premium content through a monthly subscription.
+
+## Web 2.0 challenges
+
+The team faces numerous challenges, including application development, cloud deployment, infrastructure maintenance, data security, application scaling, monitoring, updates, customer support, and payment handling. Additionally, specific tasks such as content creation by experts and AI generative models, global content delivery via content delivery networks (CDNs), and dynamic scaling based on app success are complex and resource-intensive. These tasks require a diverse skill set and substantial resources, encompassing AI experts, backend and frontend developers, DevOps and cloud engineers, security and data engineers, data scientists, customer support staff, and teams for marketing, sales, finance, and legal matters.
+
+## Naeural Edge Protocol is the solution
+
+The Naeural Edge Protocol offers a suite of tools and services that mitigate many of the above-mentioned challenges, allowing the team to focus on the application's core business experience. While not a one-size-fits-all solution, it effectively addresses key issues such as the cost and availability of AI expertise, cloud resources, backend development, scaling, balancing, monitoring, security, and payment processing.
+
+With the Naeural Edge Protocol, the team can be dedicated to developing the web client to deliver an exceptional user experience, **leveraging existing AI models and business templates for backend logic running on Naeural Edge Nodes (NENs)**. The protocol manages scaling, balancing, monitoring, and security, significantly reducing cloud infrastructure costs and enabling the team to prioritize the application's go-to-market strategy.
+
+## Additional challenges for building Web 2.0 applications
+
+Besides the challenges mentioned for the presented use case, we have identified several others that we list below:
+- Integration with existing systems and platforms
+- Compliance with local/international data protection frameworks
+- User-data privacy and ethical AI
+- Multilingual support and localization
+- Latency issues for users in remote regions
+
+## How we tackle them with Naeural
+
+The Neural Edge Protocol presents a robust and scalable platform that simplifies application deployment and management through:
+
+1. **AI Model and pre-built logic integration:** Incorporating pre-trained AI models and business templates to streamline content creation and backend logic.
+2. **Edge Computing:** Making use of distributed edge nodes to handle computing tasks closer to the user, thereby reducing latency, improving performance, and functioning as a load balancing and content delivery network.
+3. **Automatic Scaling:** Offering dynamic scaling capabilities that adjust resources automatically based on app usage and success.
+4. **Security and Compliance:** Providing built-in security features and compliance tools to address data protection and regulatory requirements.
+5. **Cost Efficiency:** Lowering cloud infrastructure costs by optimizing resource usage and employing decentralized computing.
+6. **Simplified Payment Processing:** Implementing a web3-based payment solution with trustless wallet integration while using an external KYC provider.
+
+## Extending to a Web3 Business Model
+
+The Neural Edge Protocol seamlessly evolves the initial web2 business model into a web3 framework. Within this framework, nodes function as local app hubs, facilitating the processing of crowdsourced and token-incentivized generative content curation. This expansion encompasses:
+
+1. **Decentralized Content Curation:** Users actively contribute to content creation and curation, earning tokens as incentives, nurturing a community-driven content ecosystem.
+2. **Crowdsourcing:** Harnessing the collective intelligence and creativity of the user base to enrich and diversify content offerings.
+3. **Token Incentives:** Implementing a token-based reward system to encourage user participation in content creation and curation, ensuring ongoing engagement and high-quality contributions.
+4. **Local Processing:** Utilizing local nodes to process content, thereby reducing latency and enhancing the user experience, particularly in regions with limited connectivity.
+
+By integrating these web3 features, the team can refine their business model, establishing a more dynamic, community-driven platform that capitalizes on the benefits of decentralization and tokenization. This not only enhances the user experience but also ensures sustainable and scalable growth.
+
 # Our technical philosophy at Naeural
 
 - Our product embodies value; features serve as the window through which customers perceive our innovation;
@@ -84,8 +132,8 @@ The tokenomics of the Naeural Edge Protocol are are meticulously designed to enh
 
 Since the Naeural Edge Protocol token operates as a utility token rather than a security token, its primary function lies in facilitating operational activities within the Naeural ecosystem, rather than speculative trading. It empowers users to contribute computing power, access diverse services, deploy applications, and eventually partake in governance processes. Consequently, there has not been, nor is there any intention for, a **Token Generation Event (TGE)** or **Initial Coin/Token Offering (ICO/IDO)** associated with the Naeural Edge Protocol token. All tokens, including those held in the Foundation's treasury, are distributed through **Naeural Edge Node (NEN) licenses** (Node Deeds) and the Naeural Edge Protocol decentralized application (dApp). These Node Deeds come in three forms: **Genesis Node Deed (GND)**, **Master Node Deed (MND)**, and **Node Deed (ND)**."
 
-> [!IMPORTANT]
-> TL;DR: The token rewarding system is a genuine Artificial Intelligence mining mechanism, where you are rewared for your node - be it a personal PC, cloud VM, or data center hardware - contribution to the AI training, AI inference, endpoint provisioning, busines rules execution and finally protocol security. It is your responsability, as manual labor contribution, to supply power, provision the hardware, to install the software, maintain de computer(s) and connect the node(s) to the Internet and thus to the protocol.
+> [NOTICE]
+> The token reward system serves as an authentic Artificial Intelligence mining mechanism. It incentivizes your node's contribution, whether it's a personal PC, cloud VM, or data center hardware, to various aspects such as AI training, inference, endpoint provisioning, business rules execution, and protocol security. Your role, akin to manual labor, entails supplying power, provisioning hardware, installing software, maintaining the computer(s), and connecting the node(s) to the Internet, thereby supporting the protocol.
 
 ### Genesis Node Deed (GND)
 A singular issuance exclusive to the **Naeural Edge Protocol Foundation**, the **Genesis Node Deed (GND)** activates the "edge node zero," the Foundation's virtual compute node. This activation is crucial for generating tokens allocated to the publicly disclosed Foundation token pools detailed further below. Essentially, the GND serves as the catalyst for initiating the entire Naeural Edge Protocol ecosystem.
@@ -97,7 +145,7 @@ A specialized node license that will be allocated to both the development team a
 The license available for public purchase which enables the operation of individual edge nodes within the Naeural Edge Protocol ecosystem. These nodes are crucial for powering and maintaining the network's decentralized infrastructure. Unlike the emission strategy for MNDs, NDs are emitted at a faster rate, ensuring a prolonged vesting period.
 
 
-## Purely utility token
+## Pure utility token
 
 Our utility token is intricately designed to serve as the fuel for the Naeural Edge Protocol ecosystem, enabling a smooth and efficient operation across various functionalities. Here is an enhanced clarification of the utility token’s purpose and limitations:
 
@@ -197,7 +245,7 @@ The Naeural Edge Protocol is a forward-thinking, long-term initiative. The techn
   - [x] Q2 2023: Naeural DNA and Naeural Edge Node used for 3rd party AI projects 
   - [x] Q4 2023: Naeural Edge Protocol taxonomy launched and functional including Supervisors nodes and Network monitoring
   - [x] Q1 2024: Protocol Epoch Management algorithms integrated into the Naeural DNA 
-  - [ ] Apr 2024: Epoch Management Oracles functional both in edge nodes as well as in cloud
+  - [x] Apr 2024: Epoch Management Oracles functional both in edge nodes as well as in cloud
   - [ ] Apr 2024: Naeural Edge Protocol dApp launched on testnet: token redeeming, Node Deed purchasing with tokens, oracle integration
   - [ ] May 2024: Naeural Edge Protocol token live on mainnet
   - [ ] May 2024: Naeural Edge Protocol dApp launched on mainnet
