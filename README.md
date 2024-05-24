@@ -64,7 +64,7 @@ Regardless of your project's scope or your team's expertise, Naeural is designed
 
 ### Use case 
 
-Consider a team developing a "continuous education with a twist" application for mobile devices. This application enables users to learn new skills through a gamified experience, covering a broad spectrum of content from elementary school math to advanced topics like programming, quantum physics, and information theory for postgraduate students. The application operates on a freemium model, offering basic content for free while providing access to premium content through a monthly subscription.
+Consider a team developing a "continuous education with a twist" app for mobile devices. This application enables users to learn new skills through a gamified experience, covering a broad spectrum of content from elementary school math to advanced topics like programming, quantum physics, and information theory for postgraduate students. The application operates on a freemium model, offering basic content for free while providing access to premium content through a monthly subscription.
 
 ### Web 2.0 challenges
 
